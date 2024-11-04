@@ -1,4 +1,4 @@
-I created a responsive website from scratch using HTML5 and CSS, on behalf of Dr. Aya Elbrashy for her Skin and Hair Care Diploma.
+I created a responsive website from scratch using HTML5, CSS, and Javascript on behalf of Dr. Aya Elbrashy for her Skin and Hair Care Diploma.
 
 It is composed of a main introductory page plus 3 pages, one for each section of her diploma, 2 quiz pages, a certificate download page  and a final check-out page with payment details.
 
